@@ -1,4 +1,4 @@
-package br.com.itau.password.model;
+package br.com.desafioItau.password.model;
 
 public class PasswordRequest {
 

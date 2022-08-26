@@ -1,8 +1,8 @@
-package br.com.itau.password.controller;
+package br.com.desafioItau.password.controller;
 
-import br.com.itau.password.model.PasswordRequest;
-import br.com.itau.password.model.PasswordResponse;
-import br.com.itau.password.service.PasswordService;
+import br.com.desafioItau.password.model.PasswordRequest;
+import br.com.desafioItau.password.model.PasswordResponse;
+import br.com.desafioItau.password.service.PasswordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestBody;
